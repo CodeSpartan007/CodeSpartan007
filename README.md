@@ -59,13 +59,16 @@ Computer Science student with experience in software development, Linux systems,
 ## Certifications
 
 ### IBM Credentials
-- IBM Cybersecurity Fundamentals  
-- IBM Data Analytics Fundamentals  
+- IBM Data Science Practitioner
+  
+  [![Credly Badge](https://img.shields.io/badge/View-Credly_Badge-blue)](https://www.credly.com/badges/d8b71542-dcd7-48cd-98e6-36d23a11ae6f/public_url)
+  
+- IBM Enterprise Design Thinking Practitioner
+  
+  [![Credly Badge](https://img.shields.io/badge/View-Credly_Badge-blue)](https://www.credly.com/badges/9ab3a81e-da90-4628-ae9c-d6a7e2cb1bf3/public_url)
 
-[![Credly Badge](https://img.shields.io/badge/View-Credly_Badge-blue)](https://www.credly.com/badges/9ab3a81e-da90-4628-ae9c-d6a7e2cb1bf3/public_url)
 
----
-[![Credly Badge](https://img.shields.io/badge/View-Credly_Badge-blue)](https://www.credly.com/badges/d8b71542-dcd7-48cd-98e6-36d23a11ae6f/public_url)
+
 
 ## Featured Projects
 
