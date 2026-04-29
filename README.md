@@ -65,15 +65,9 @@ Computer Science student with experience in software development, Linux systems,
 [![Credly Badge](https://img.shields.io/badge/View-Credly_Badge-blue)](https://www.credly.com/badges/9ab3a81e-da90-4628-ae9c-d6a7e2cb1bf3/public_url)
 
 ---
+[![Credly Badge](https://img.shields.io/badge/View-Credly_Badge-blue)](https://www.credly.com/badges/d8b71542-dcd7-48cd-98e6-36d23a11ae6f/public_url)
 
 ## Featured Projects
-
-### Survey Madness
-Full-stack survey creation and response analytics platform built using the MERN stack.
-
-🔗 https://github.com/CodeSpartan007/survey-madness
-
----
 
 ### MoMoney
 Offline-first Android personal finance application focused on budgeting, privacy and secure cloud sync.
@@ -81,6 +75,13 @@ Offline-first Android personal finance application focused on budgeting, privacy
 Built with Kotlin, Jetpack Compose, Room, Firebase and Clean Architecture.
 
 🔗 https://github.com/CodeSpartan007/MoMoney
+
+---
+
+### Survey Madness
+Full-stack survey creation and response analytics platform built using the MERN stack.
+
+🔗 https://github.com/CodeSpartan007/survey-madness
 
 ---
 
